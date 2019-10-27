@@ -1,0 +1,2 @@
+# ABM_Ethnocentrism_Intergroup_Cooperation
+ABM of Ethnocentrism Centered on Intergroup Cooperation
